@@ -11,7 +11,7 @@
         },
         "fit": "linear",
         "fn": 180,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 180,
         "outlier_excluded": [],
         "reviewed": true,
@@ -30,7 +30,7 @@
         },
         "fit": "linear",
         "fn": 180,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 180,
         "outlier_excluded": [],
         "reviewed": true,
@@ -49,7 +49,7 @@
         },
         "fit": "linear",
         "fn": 179,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 180,
         "outlier_excluded": [
             133
@@ -59,7 +59,7 @@
         "value": 0.07186883527867835
     },
     "Ar39": {
-        "error": 0.01025398838886632,
+        "error": 0.020493089902229693,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -68,17 +68,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 180,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 180,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.029561137756773583
+        "value": 0.03455912096782069
     },
     "Ar40": {
-        "error": 0.012650455733359956,
+        "error": 0.021236968222045238,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -87,14 +87,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 180,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 180,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 21.561140433531847
+        "value": 21.40313446765358
     },
     "Ar41": {
         "error": 0.020240913656343625,
